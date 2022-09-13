@@ -1,0 +1,15 @@
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/FactorialCalculator.csproj.AssemblyReference.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/FactorialCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/FactorialCalculator.AssemblyInfoInputs.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/FactorialCalculator.AssemblyInfo.cs
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/FactorialCalculator.csproj.CoreCompileInputs.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/bin/Debug/net6.0/FactorialCalculator
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/bin/Debug/net6.0/FactorialCalculator.deps.json
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/bin/Debug/net6.0/FactorialCalculator.runtimeconfig.json
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/bin/Debug/net6.0/FactorialCalculator.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/bin/Debug/net6.0/FactorialCalculator.pdb
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/FactorialCalculator.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/refint/FactorialCalculator.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/FactorialCalculator.pdb
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/FactorialCalculator.genruntimeconfig.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/FactorialCalculator/obj/Debug/net6.0/ref/FactorialCalculator.dll

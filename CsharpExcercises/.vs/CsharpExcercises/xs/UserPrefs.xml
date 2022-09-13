@@ -1,0 +1,8 @@
+﻿<Properties StartupConfiguration="{13999958-1B88-4442-BEFB-0F05AF3D20FD}|Default">
+  <MonoDevelop.Ide.ItemProperties.CalculateAreaAndPerimeter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StoreArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MovieDatabase FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FactorialCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NumberAnalyzer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

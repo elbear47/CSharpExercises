@@ -1,0 +1,15 @@
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/bin/Debug/net6.0/CalculateAreaAndPerimeter
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/bin/Debug/net6.0/CalculateAreaAndPerimeter.deps.json
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/bin/Debug/net6.0/CalculateAreaAndPerimeter.runtimeconfig.json
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/bin/Debug/net6.0/CalculateAreaAndPerimeter.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/bin/Debug/net6.0/CalculateAreaAndPerimeter.pdb
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/CalculateAreaAndPerimeter.csproj.AssemblyReference.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/CalculateAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/CalculateAreaAndPerimeter.AssemblyInfoInputs.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/CalculateAreaAndPerimeter.AssemblyInfo.cs
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/CalculateAreaAndPerimeter.csproj.CoreCompileInputs.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/CalculateAreaAndPerimeter.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/refint/CalculateAreaAndPerimeter.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/CalculateAreaAndPerimeter.pdb
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/CalculateAreaAndPerimeter.genruntimeconfig.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/CalculateAreaAndPerimeter/obj/Debug/net6.0/ref/CalculateAreaAndPerimeter.dll

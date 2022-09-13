@@ -1,0 +1,15 @@
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/bin/Debug/net6.0/StoreArray
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/bin/Debug/net6.0/StoreArray.deps.json
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/bin/Debug/net6.0/StoreArray.runtimeconfig.json
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/bin/Debug/net6.0/StoreArray.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/bin/Debug/net6.0/StoreArray.pdb
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/StoreArray.csproj.AssemblyReference.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/StoreArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/StoreArray.AssemblyInfoInputs.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/StoreArray.AssemblyInfo.cs
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/StoreArray.csproj.CoreCompileInputs.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/StoreArray.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/refint/StoreArray.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/StoreArray.pdb
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/StoreArray.genruntimeconfig.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/StoreArray/obj/Debug/net6.0/ref/StoreArray.dll

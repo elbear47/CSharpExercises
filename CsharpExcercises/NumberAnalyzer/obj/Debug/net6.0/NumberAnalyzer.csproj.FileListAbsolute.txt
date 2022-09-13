@@ -1,0 +1,15 @@
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer.deps.json
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer.runtimeconfig.json
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer.pdb
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.csproj.AssemblyReference.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.AssemblyInfoInputs.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.AssemblyInfo.cs
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.csproj.CoreCompileInputs.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/refint/NumberAnalyzer.dll
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.pdb
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.genruntimeconfig.cache
+/Users/elberfunez/gc-bootcamp/notes/CSharpExercises/CsharpExcercises/NumberAnalyzer/obj/Debug/net6.0/ref/NumberAnalyzer.dll
